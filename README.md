@@ -20,6 +20,10 @@ This project bridges the gap between data and decision-making by developing a **
 
 ---
 
+<img width="512" height="237" alt="unnamed" src="https://github.com/user-attachments/assets/de169436-bd63-453d-a581-799a31e3b567" />
+<img width="512" height="238" alt="unnamed-3" src="https://github.com/user-attachments/assets/292725a1-0b30-4b7a-b4be-a62ad5c92cdc" />
+<img width="512" height="237" alt="unnamed-2" src="https://github.com/user-attachments/assets/2232c78e-d513-4e04-b2d8-96a203b65cc8" />
+
 ## 🛠️ System Architecture
 
 The system utilizes a unidirectional data flow where the drone acts as the data capture edge, and the laptop acts as the processing node:
